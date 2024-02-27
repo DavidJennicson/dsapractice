@@ -1,0 +1,27 @@
+# Patterns notes
+
+|   |   |   |   |   |   |
+|---|---|---|---|---|---|
+||SI. No.|Pattern|Article|Practice Link|Solution|
+||1|![](file:///C:/Users/david/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)|[Link](https://takeuforward.org/pattern/pattern-1-rectangular-star-pattern/)|[Link](https://bit.ly/3QfK2k3)|[Link](https://youtu.be/tNm_NNSB3_w?t=91)|
+||2|![](file:///C:/Users/david/AppData/Local/Temp/msohtmlclip1/01/clip_image004.png)|[Link](https://takeuforward.org/pattern/pattern-2-right-angled-triangle-pattern/)|[Link](https://bit.ly/3VADLAt)|[Link](https://youtu.be/tNm_NNSB3_w?t=856)|
+||3|![](file:///C:/Users/david/AppData/Local/Temp/msohtmlclip1/01/clip_image006.png)|[Link](https://takeuforward.org/pattern/pattern-3-right-angled-number-pyramid/)|[Link](https://bit.ly/3CiWV74)|[Link](https://youtu.be/tNm_NNSB3_w?t=1054)|
+||4|![](file:///C:/Users/david/AppData/Local/Temp/msohtmlclip1/01/clip_image008.png)|[Link](https://takeuforward.org/pattern/pattern-4-right-angled-number-pyramid-ii/)|[Link](https://bit.ly/3Gzv70S)|[Link](https://youtu.be/tNm_NNSB3_w?t=1198)|
+||5|![](file:///C:/Users/david/AppData/Local/Temp/msohtmlclip1/01/clip_image010.png)|[Link](https://takeuforward.org/pattern/pattern-5-inverted-right-pyramid/)|[Link](https://bit.ly/3WXGSDD)|[Link](https://youtu.be/tNm_NNSB3_w?t=1261)|
+||6|![](file:///C:/Users/david/AppData/Local/Temp/msohtmlclip1/01/clip_image012.png)|[Link](https://takeuforward.org/pattern/pattern-6-inverted-numbered-right-pyramid/)|[Link](https://bit.ly/3i06XDu)|[Link](https://youtu.be/tNm_NNSB3_w?t=1419)|
+||7|![](file:///C:/Users/david/AppData/Local/Temp/msohtmlclip1/01/clip_image014.png)|[Link](https://takeuforward.org/pattern/pattern-7-star-pyramid/)|[Link](https://bit.ly/3GzvAAa)|[Link](https://youtu.be/tNm_NNSB3_w?t=1473)|
+||8|![](file:///C:/Users/david/AppData/Local/Temp/msohtmlclip1/01/clip_image016.png)|[Link](https://takeuforward.org/pattern/pattern-8-inverted-star-pyramid/)|[Link](https://bit.ly/3IqmG9k)|[Link](https://youtu.be/tNm_NNSB3_w?t=1870)|
+||9|![](file:///C:/Users/david/AppData/Local/Temp/msohtmlclip1/01/clip_image018.png)|[Link](https://takeuforward.org/pattern/pattern-9-diamond-star-pattern/)|[Link](https://bit.ly/3GyUIHp)|[Link](https://youtu.be/tNm_NNSB3_w?t=2056)|
+||10|![](file:///C:/Users/david/AppData/Local/Temp/msohtmlclip1/01/clip_image020.png)|[Link](https://takeuforward.org/pattern/pattern-10-half-diamond-star-pattern/)|[Link](https://bit.ly/3WZoytT)|[Link](https://youtu.be/tNm_NNSB3_w?t=2112)|
+||11|![](file:///C:/Users/david/AppData/Local/Temp/msohtmlclip1/01/clip_image022.png)|[Link](https://takeuforward.org/pattern/pattern-11-binary-number-triangle-pattern/)|[Link](https://bit.ly/3WLiUvW)|[Link](https://youtu.be/tNm_NNSB3_w?t=2362)|
+||12|![](file:///C:/Users/david/AppData/Local/Temp/msohtmlclip1/01/clip_image024.png)|[Link](https://takeuforward.org/pattern/pattern-12-number-crown-pattern/)|[Link](https://bit.ly/3jDVVnD)|[Link](https://youtu.be/tNm_NNSB3_w?t=2535)|
+||13|![](file:///C:/Users/david/AppData/Local/Temp/msohtmlclip1/01/clip_image026.png)|[Link](https://takeuforward.org/pattern/pattern-13-increasing-number-triangle-pattern/)|[Link](https://bit.ly/3WWQ1wb)|[Link](https://youtu.be/tNm_NNSB3_w?t=2812)|
+||14|![](file:///C:/Users/david/AppData/Local/Temp/msohtmlclip1/01/clip_image028.png)|[Link](https://takeuforward.org/pattern/pattern-14-increasing-letter-triangle-pattern/)|[Link](https://bit.ly/3GyWCYs)|[Link](https://youtu.be/tNm_NNSB3_w?t=2922)|
+||15|![](file:///C:/Users/david/AppData/Local/Temp/msohtmlclip1/01/clip_image030.png)|[Link](https://takeuforward.org/pattern/pattern-15-reverse-letter-triangle-pattern/)|[Link](https://bit.ly/3X1i8KC)|[Link](https://youtu.be/tNm_NNSB3_w?t=3057)|
+||16|![](file:///C:/Users/david/AppData/Local/Temp/msohtmlclip1/01/clip_image032.png)|[Link](https://takeuforward.org/pattern/pattern-16-alpha-ramp-pattern/)|[Link](https://bit.ly/3G9gq3g)|[Link](https://youtu.be/tNm_NNSB3_w?t=3183)|
+||17|![](file:///C:/Users/david/AppData/Local/Temp/msohtmlclip1/01/clip_image034.png)|[Link](https://takeuforward.org/pattern/pattern-17-alpha-hill-pattern/)|[Link](https://bit.ly/3jJ7CcR)|[Link](https://youtu.be/tNm_NNSB3_w?t=3282)|
+||18|![](file:///C:/Users/david/AppData/Local/Temp/msohtmlclip1/01/clip_image035.png)|[Link](https://takeuforward.org/pattern/pattern-18-alpha-triangle-pattern/)|[Link](https://bit.ly/3Z3scot)|[Link](https://youtu.be/tNm_NNSB3_w?t=3585)|
+||19|![](file:///C:/Users/david/AppData/Local/Temp/msohtmlclip1/01/clip_image037.png)|[Link](https://takeuforward.org/pattern/pattern-19-symmetric-void-pattern/)|[Link](https://bit.ly/3QfKij1)|[Link](https://youtu.be/tNm_NNSB3_w?t=3688)|
+||20|![](file:///C:/Users/david/AppData/Local/Temp/msohtmlclip1/01/clip_image039.png)|[Link](https://takeuforward.org/pattern/pattern-20-symmetric-butterfly-pattern/)|[Link](https://bit.ly/3G2eCZC)|[Link](https://youtu.be/tNm_NNSB3_w?t=3996)|
+||21||[Link](https://takeuforward.org/pattern/pattern-21-hollow-rectangle-pattern/)|[Link](https://bit.ly/3vBpdpy)|[Link](https://youtu.be/tNm_NNSB3_w?t=4349)|
+||22|![](file:///C:/Users/david/AppData/Local/Temp/msohtmlclip1/01/clip_image041.png)|[Link](https://takeuforward.org/pattern/pattern-22-the-number-pattern/)|[Link](https://bit.ly/3vtRNJJ)|[Link](https://youtu.be/tNm_NNSB3_w?t=4541)|
